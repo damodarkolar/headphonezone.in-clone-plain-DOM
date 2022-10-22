@@ -10,5 +10,8 @@ Headphone Zone is India first exclusive online store for headphones, earphones a
 <h1>  DEMO </h1>
 
 <img src="https://github.com/deepaksahu3698/headphonezone.in/blob/main/headphonecomp.gif">
-
+<img src="https://github.com/damodarkolar/headphonezone.in-clone-plain-DOM/blob/main/headphone-product.png"/>
+<img src="https://github.com/damodarkolar/headphonezone.in-clone-plain-DOM/blob/main/headphone-login.png"/>
+<img src="https://github.com/damodarkolar/headphonezone.in-clone-plain-DOM/blob/main/headphone-cart.png"/>
+<img src="https://github.com/damodarkolar/headphonezone.in-clone-plain-DOM/blob/main/headphone-checkout.png"/>
 <a href="https://unique-sprite-5a80fe.netlify.app/" target="_blanck">Live website Link</a>
